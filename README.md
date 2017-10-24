@@ -2,11 +2,11 @@
 
 1. Get ready!
 2. Create a Github account if you haven't already. Link: https://github.com/join
-3. Create an issue in this repository saying something like "Add YOUR_NAME_HERE" to the contributors.
+3. Create an issue in this repository saying something like "Add YOUR_NAME_HERE to the contributors."
 4. Comment below the issue if you're willing to work on it.
 5. Wait for a maintainer to assign the issue to you.
 6. Meanwhile, fork this repository using the fork button.
-7. Install and setup git in your machine, if you haven't already.
+7. Install and setup git in your machine, if you haven't already. You can follow the instructions given [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 8. Clone this repository.
     ```sh
     git clone https://github.com/satwikkansal/oss_first_contribution.git
