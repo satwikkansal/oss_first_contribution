@@ -1,5 +1,7 @@
 ## Making your first Open Source Contribution :tada:
 
+Slides for the OSS SIG: https://docs.google.com/presentation/d/1wG0pVVtgnogi4kZoORms5P5rn-076oah9wbGMI8hir8/edit?usp=sharing
+
 1. Get ready!
 2. Create a Github account if you haven't already. Link: https://github.com/join
 3. Create an issue in this repository saying something like "Add YOUR_NAME_HERE to the contributors."
