@@ -37,6 +37,7 @@
     ```
 16. Open your forked repository on Github, click on the "Create a Pull Request Button", and submit a Pull Request.
 17. Now sit back and relax! Some maintainer will merge you PR soon. And voila, you just made your first contribution!! :tada:
+18. It would be great if you can spare 30 seconds to fill this feedback form - http://bit.ly/ossdtu1
 
 **Note:** If you are stuck at any step, feel free to open up an issue in this repository describing your problem.
 
