@@ -37,9 +37,10 @@ Slides for the OSS SIG: https://docs.google.com/presentation/d/1wG0pVVtgnogi4kZo
     ```sh
     git push myfork master
     ```
-16. Open your forked repository on Github, click on the "Create a Pull Request Button", and submit a Pull Request.
+16. Open your forked repository on Github, click on the "Create a Pull Request Button", and submit a Pull Request (don't forget to add the url of the issue you created in the PR description).
 17. Now sit back and relax! Some maintainer will merge you PR soon. And voila, you just made your first contribution!! :tada:
-18. It would be great if you can spare 30 seconds to fill this feedback form - http://bit.ly/ossdtu1
+18. Once your PR is merged, feel free to close the issue you created.
+19. It would be great if you can spare 30 seconds to fill this feedback form - http://bit.ly/ossdtu1
 
 **Note:** If you are stuck at any step, feel free to open up an issue in this repository describing your problem.
 
