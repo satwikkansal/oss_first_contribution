@@ -1,5 +1,7 @@
 ## Making your first Open Source Contribution :tada:
 
+Slides for the OSS SIG: https://docs.google.com/presentation/d/1wG0pVVtgnogi4kZoORms5P5rn-076oah9wbGMI8hir8/edit?usp=sharing
+
 1. Get ready!
 2. Create a Github account if you haven't already. Link: https://github.com/join
 3. Create an issue in this repository saying something like "Add YOUR_NAME_HERE to the contributors."
@@ -37,11 +39,10 @@
     ```
 16. Open your forked repository on Github, click on the "Create a Pull Request Button", and submit a Pull Request.
 17. Now sit back and relax! Some maintainer will merge you PR soon. And voila, you just made your first contribution!! :tada:
+18. It would be great if you can spare 30 seconds to fill this feedback form - http://bit.ly/ossdtu1
 
 **Note:** If you are stuck at any step, feel free to open up an issue in this repository describing your problem.
 
 Finally, you're all welcome to join our Facebook discussion group [DTU : Open Source Software Development (SIG)](https://www.facebook.com/groups/dtuosssig/) and ask your queries or share your achievements (like your first contribution :P).
-
-And those who've attended the [SIG](https://www.facebook.com/events/308458762969006), Please fill out this form.
 
 Now feel free to play around with Github, follow your friends, check out different project, see what's trending and so on.. Remember, the more you explore on your own, the better you'll learn.
