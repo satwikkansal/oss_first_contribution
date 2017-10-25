@@ -43,6 +43,4 @@
 
 Finally, you're all welcome to join our Facebook discussion group [DTU : Open Source Software Development (SIG)](https://www.facebook.com/groups/dtuosssig/) and ask your queries or share your achievements (like your first contribution :P).
 
-And those who've attended the [SIG](https://www.facebook.com/events/308458762969006), Please fill out this form.
-
 Now feel free to play around with Github, follow your friends, check out different project, see what's trending and so on.. Remember, the more you explore on your own, the better you'll learn.
