@@ -7,3 +7,4 @@ Use the following template
 
 - Satwik Kansal [Github: satwikkansal](https://github.com/satwikkansal)
 - Gautam Prajapati [Github: brainbreaker](https://github.com/brainbreaker)
+- Pranshu Goyal [Github: pran1402] (https://github.com/pran1402
