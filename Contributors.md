@@ -6,4 +6,7 @@ Use the following template
 ```
 
 - Satwik Kansal [Github: satwikkansal](https://github.com/satwikkansal)
+- Gautam Prajapati [Github: brainbreaker](https://github.com/brainbreaker)
+- Anmol Jain[Github: anmoljain12](https://github.com/anmoljain12)
 - Anonymous [Github: anonymous](https://github.com/anonymous)
+
