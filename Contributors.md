@@ -14,4 +14,3 @@ Use the following template
 - Anmol Jain[Github: anmoljain12](https://github.com/anmoljain12)
 - Anonymous [Github: anonymous](https://github.com/anonymous)
 - Saurabh Patel [Github : srbhptl39](https://github.com/srbhptl39)
-
