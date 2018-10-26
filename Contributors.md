@@ -16,3 +16,4 @@ Use the following template
 - Ankit kumar [Github : PrajapatiAnkit](https://github.com/PrajapatiAnkit/)
 - Ajay Sharma[Github : ajay1706](http://github.com/ajay1706)
 - Aditya Singhal [Github : adidtu27](https://github.com/adidtu27)
+- Sarthak Thakur [GitHub: sarthak247](https://github.com/sarthak247)
