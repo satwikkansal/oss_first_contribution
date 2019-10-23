@@ -16,5 +16,6 @@ Use the following template
 - Ankit kumar [Github : PrajapatiAnkit](https://github.com/PrajapatiAnkit/)
 - Ajay Sharma[Github : ajay1706](http://github.com/ajay1706)
 - Aditya Singhal [Github : adidtu27](https://github.com/adidtu27)
+- Jim Mitsos [Github : jimmitsos](https://github.com/jimmitsos)
 - Jon Karavan [Github : jonkaravan](https://github.com/jonkaravan)
 - Sourav Sett [Github : darthsett](https://github.com/darthsett)
